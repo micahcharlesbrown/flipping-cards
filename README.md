@@ -12,3 +12,5 @@ The Card component takes a single prop, value, which is then displayed on the ca
 value and in its state.
 
 We create multiple cards by mapping an array on strings, container 'values', inside of the App component.
+
+React icons are used, but could be replaced by a png.
