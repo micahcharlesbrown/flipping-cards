@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Flipping Cards
 
 A basic project created in React to demonstrate the creation of a customizable, repeatable component.
