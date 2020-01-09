@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { GiSpades } from "react-icons/gi";
 import { IconContext } from "react-icons";
 
+///a class component in react
 class Card extends Component {
   constructor(props) {
     super(props);
