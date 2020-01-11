@@ -16,7 +16,6 @@ class Card extends Component {
   };
 
   isFlippedClass = () => {
-    console.log("hit");
     if (this.state.flipped) {
       return "card";
     }
@@ -30,10 +29,10 @@ class Card extends Component {
         justifyContent: "center",
         alignItems: "center",
         height: "100%",
-        backfaceVisibility: "hidden"
+        transition: "all 1s ease"
       };
     }
-    return { display: "none" };
+    return { opacity: "0" };
   };
 
   render() {
