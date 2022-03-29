@@ -1,6 +1,6 @@
 ## Flipping Cards
 
-A basic project created in React to demonstrate the creation of a customizable, repeatable component.
+A basic project created in React to demonstrate the creation of a customizable, repeatable component. Created for a 2hr live-coding react workshop for Concordia Bootcamps.
 
 The Card component has a state with a single property, flipped. This is toggled with an onClick on the card.
 Depending on the property flipped within the state of the Card component, the card changes display. The transition between the display states is animated with CSS. The display is controlled using the style property in JSX. This
